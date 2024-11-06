@@ -66,12 +66,16 @@ The system includes the following tables:
    - Status
    - Author
    - Publisher
+   ** DESC Books **
+     ![image](https://github.com/user-attachments/assets/47bf9c41-8552-4edf-a218-a6fa57169f2d)
 
 4. **Customer**
    - Customer_Id (PRIMARY KEY)
    - Customer_name
    - Customer_address
    - Reg_date
+   ** DESC Customer **
+     ![image](https://github.com/user-attachments/assets/ea74d297-a7fa-4399-92c6-6d90c6290871)
 
 5. **IssueStatus**
    - Issue_Id (PRIMARY KEY)
@@ -79,6 +83,8 @@ The system includes the following tables:
    - Issued_book_name
    - Issue_date
    - Isbn_book (FOREIGN KEY referencing ISBN in Books table)
+    ** DESC IssueStatus **
+     ![image](https://github.com/user-attachments/assets/dc129330-e323-418a-9367-f02f9702c997)
 
 6. **ReturnStatus**
    - Return_Id (PRIMARY KEY)
@@ -86,7 +92,9 @@ The system includes the following tables:
    - Return_book_name
    - Return_date
    - Isbn_book2 (FOREIGN KEY referencing ISBN in Books table)
-  
+     ** DESC ReturnStatus **
+     ![image](https://github.com/user-attachments/assets/1b5d02cb-e86c-4f56-910c-7e041b33ef86)
+
 ## Queries
 The following SQL queries are used in this project:
 1. Retrieve the book title, category, and rental price of all available books.
