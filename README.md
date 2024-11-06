@@ -3,7 +3,7 @@ Library Management System
 
 ## Project Overview
 The **Library Management System** (LMS) is designed to manage and track library operations such as book cataloging, lending, user management, and inventory tracking. This system keeps information about books, their availability, associated branches, employee details, and customer data, helping streamline library activities and data retrieval through SQL queries.
-![image](https://github.com/user-attachments/assets/2949fc1f-fc95-451b-91cc-5730ac02ba34)
+
 
 ## Features
 1. **Branch Management**: Track library branches, including branch number, manager, and contact information.
@@ -11,6 +11,7 @@ The **Library Management System** (LMS) is designed to manage and track library 
 3. **Book Cataloging**: Maintain a database of books with information on ISBN, title, category, rental price, author, and publisher.
 4. **Customer Records**: Keep track of customer information, including name, address, registration date, and book issuing status.
 5. **Issue and Return Tracking**: Monitor book issues and returns to ensure smooth operations and track customer borrowing history.
+![image](https://github.com/user-attachments/assets/4ef943bc-8c0b-4696-b31a-7af6584cb006)
 
 ## Database Schema
 The system includes the following tables:
@@ -20,6 +21,7 @@ The system includes the following tables:
 - **Customer**: Customer details and registration information.
 - **IssueStatus**: Tracks issued books and the customers who have borrowed them.
 - **ReturnStatus**: Tracks returned books.
+ 
 
 ### Database Schema Structure
 1. **Branch**
@@ -27,6 +29,8 @@ The system includes the following tables:
    - Manager_Id
    - Branch_address
    - Contact_no
+     ![Uploading image.png…]()
+
 
 2. **Employee**
    - Emp_Id (PRIMARY KEY)
