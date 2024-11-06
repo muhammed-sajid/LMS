@@ -42,7 +42,7 @@ The system includes the following tables:
 
 
 
-2. **Employee**
+## 2. **Employee**
    - Emp_Id (PRIMARY KEY)
    - Emp_name
    - Position
@@ -58,7 +58,7 @@ The system includes the following tables:
      **Table**
        ![image](https://github.com/user-attachments/assets/9d9774cc-548e-44e7-87b0-9c103d1a4677)
 
-3. **Books**
+## 3. **Books**
    - ISBN (PRIMARY KEY)
    - Book_title
    - Category
@@ -77,7 +77,7 @@ The system includes the following tables:
    ![image](https://github.com/user-attachments/assets/95e08ade-94aa-452a-9cd0-d8cd6c648be0)
 
 
-5. **Customer**
+## 4. **Customer**
    - Customer_Id (PRIMARY KEY)
    - Customer_name
    - Customer_address
@@ -93,7 +93,7 @@ The system includes the following tables:
    ![image](https://github.com/user-attachments/assets/37ba8cd7-41d5-4bf2-b2e2-3ce4158e7f59)
 
 
-7. **IssueStatus**
+## 5. **IssueStatus**
    - Issue_Id (PRIMARY KEY)
    - Issued_cust (FOREIGN KEY referencing Customer_Id in Customer table)
    - Issued_book_name
@@ -110,7 +110,7 @@ The system includes the following tables:
      ![image](https://github.com/user-attachments/assets/8e7bd62f-b0fe-4cf4-bad7-e56ea4737157)
   
 
-8. **ReturnStatus**
+## 6. **ReturnStatus**
    - Return_Id (PRIMARY KEY)
    - Return_cust
    - Return_book_name
