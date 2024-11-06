@@ -129,7 +129,7 @@ The system includes the following tables:
 ## Queries
 The following SQL queries are used in this project:
 
-1. Retrieve the book title, category, and rental price of all available books.
+**1. Retrieve the book title, category, and rental price of all available books.**
     ![image](https://github.com/user-attachments/assets/52e87342-16ec-440c-9f8c-12681200f90c)
      
 2. List the employee names and their respective salaries in descending order of salary.
