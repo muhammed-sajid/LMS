@@ -29,7 +29,13 @@ The system includes the following tables:
    - Manager_Id
    - Branch_address
    - Contact_no
-     ![Uploading image.png…]()
+     ![image](https://github.com/user-attachments/assets/d9cc52de-e7bd-45da-9a97-b8fc2cb38445)
+     Insert values into Branch
+     ![image](https://github.com/user-attachments/assets/6a295047-1bac-45bb-bd90-6020655e0d65)
+     Table
+     ![image](https://github.com/user-attachments/assets/1e52e5c3-61af-45bb-af6e-ab588b5d797b)
+
+
 
 
 2. **Employee**
