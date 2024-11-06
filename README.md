@@ -31,7 +31,7 @@ The system includes the following tables:
    - Manager_Id
    - Branch_address
    - Contact_no
-   - 
+     
      **DESC Branch**
      ![image](https://github.com/user-attachments/assets/d9cc52de-e7bd-45da-9a97-b8fc2cb38445)
      **Insert values into Branch**
