@@ -31,14 +31,14 @@ The system includes the following tables:
    - Manager_Id
    - Branch_address
    - Contact_no
+   - 
      **DESC Branch**
      ![image](https://github.com/user-attachments/assets/d9cc52de-e7bd-45da-9a97-b8fc2cb38445)
      **Insert values into Branch**
      ![image](https://github.com/user-attachments/assets/6a295047-1bac-45bb-bd90-6020655e0d65)
      **Table**
      
-     ![image](https://github.com/user-attachments/assets/1e52e5c3-61af-45bb-af6e-ab588b5d797b)
-
+     ![image](https://github.com/user-attachments/assets/9a06bf25-3b8c-46f1-bd4a-198096144254)
 
 
 
@@ -48,6 +48,15 @@ The system includes the following tables:
    - Position
    - Salary
    - Branch_no (FOREIGN KEY referencing Branch_no in Branch table)
+
+     ** DESC Employee **
+     ![image](https://github.com/user-attachments/assets/0e1c75fd-c66f-4fda-b984-11fdcb1e5093)
+
+      ** Insert values into Employee **
+     ![image](https://github.com/user-attachments/assets/73c3cf9c-918c-457e-819f-d47c04d632f1)
+
+     **Table**
+       ![image](https://github.com/user-attachments/assets/9d9774cc-548e-44e7-87b0-9c103d1a4677)
 
 3. **Books**
    - ISBN (PRIMARY KEY)
