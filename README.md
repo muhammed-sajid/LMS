@@ -26,7 +26,7 @@ The system includes the following tables:
  
 
 ### Database Schema Structure
-1. **Branch**
+## 1. **Branch**
    - Branch_no (PRIMARY KEY)
    - Manager_Id
    - Branch_address
