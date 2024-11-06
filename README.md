@@ -49,10 +49,10 @@ The system includes the following tables:
    - Salary
    - Branch_no (FOREIGN KEY referencing Branch_no in Branch table)
 
-     ** DESC Employee **
+     **DESC Employee**
      ![image](https://github.com/user-attachments/assets/0e1c75fd-c66f-4fda-b984-11fdcb1e5093)
 
-      ** Insert values into Employee **
+      **Insert values into Employee**
      ![image](https://github.com/user-attachments/assets/73c3cf9c-918c-457e-819f-d47c04d632f1)
 
      **Table**
@@ -66,7 +66,8 @@ The system includes the following tables:
    - Status
    - Author
    - Publisher
-   ** DESC Books **
+     
+   **DESC Books**
      ![image](https://github.com/user-attachments/assets/47bf9c41-8552-4edf-a218-a6fa57169f2d)
 
 4. **Customer**
@@ -74,7 +75,8 @@ The system includes the following tables:
    - Customer_name
    - Customer_address
    - Reg_date
-   ** DESC Customer **
+     
+   **DESC Customer**
      ![image](https://github.com/user-attachments/assets/ea74d297-a7fa-4399-92c6-6d90c6290871)
 
 5. **IssueStatus**
@@ -83,7 +85,8 @@ The system includes the following tables:
    - Issued_book_name
    - Issue_date
    - Isbn_book (FOREIGN KEY referencing ISBN in Books table)
-    ** DESC IssueStatus **
+
+     **DESC IssueStatus**
      ![image](https://github.com/user-attachments/assets/dc129330-e323-418a-9367-f02f9702c997)
 
 6. **ReturnStatus**
@@ -92,7 +95,8 @@ The system includes the following tables:
    - Return_book_name
    - Return_date
    - Isbn_book2 (FOREIGN KEY referencing ISBN in Books table)
-     ** DESC ReturnStatus **
+
+     **DESC ReturnStatus**
      ![image](https://github.com/user-attachments/assets/1b5d02cb-e86c-4f56-910c-7e041b33ef86)
 
 ## Queries
