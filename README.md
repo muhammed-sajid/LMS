@@ -132,39 +132,39 @@ The following SQL queries are used in this project:
 **1. Retrieve the book title, category, and rental price of all available books.**
     ![image](https://github.com/user-attachments/assets/52e87342-16ec-440c-9f8c-12681200f90c)
      
-2. List the employee names and their respective salaries in descending order of salary.
+**2. List the employee names and their respective salaries in descending order of salary.**
    ![image](https://github.com/user-attachments/assets/90fc14ac-74c9-4617-8f61-8f16ce6b1683)
 
    
-3. Retrieve the book titles and the corresponding customers who have issued those books.
+**3. Retrieve the book titles and the corresponding customers who have issued those books.**
    ![image](https://github.com/user-attachments/assets/e300ce8a-1868-4e0c-aa83-32e643874650)
 
 
-4. Display the total count of books in each category.
+**4. Display the total count of books in each category.**
    ![image](https://github.com/user-attachments/assets/2925e54e-aebd-4e19-8317-431b99537ba4)
 
-5. Retrieve the employee names and their positions for employees whose salaries are above Rs.50,000.
+**5. Retrieve the employee names and their positions for employees whose salaries are above Rs.50,000.**
    ![image](https://github.com/user-attachments/assets/2d7b9cc7-4395-4182-bebf-bbb5042cb999)
 
-6. List customer names who registered before 2022-01-01 and have not issued any books yet.
+**6. List customer names who registered before 2022-01-01 and have not issued any books yet.**
    ![image](https://github.com/user-attachments/assets/ac4ef2f5-f2cb-4a80-adb0-fdd05fbde1e9)
 
-7. Display branch numbers and the total count of employees in each branch.
+**7. Display branch numbers and the total count of employees in each branch.**
    ![image](https://github.com/user-attachments/assets/f05bf85a-9884-4a5b-b38b-000ec8f5ef65)
 
-8. Display the names of customers who issued books in June 2023.
+**8. Display the names of customers who issued books in June 2023.**
    ![image](https://github.com/user-attachments/assets/bb8c96a8-49fc-4605-a309-af4e46ccd6e5)
 
-9. Retrieve book titles from the Books table containing "history".
+**9. Retrieve book titles from the Books table containing "history".**
     ![image](https://github.com/user-attachments/assets/c4e13e8c-ea02-4fbf-9619-004b2b22a048)
 
-10. Retrieve branch numbers and the count of employees for branches with more than 5 employees.
+**10. Retrieve branch numbers and the count of employees for branches with more than 5 employees.**
      ![image](https://github.com/user-attachments/assets/834dca35-ed81-47f6-8720-cddb53611a7c)
 
-11. Retrieve names of employees who manage branches and their respective branch addresses.
+**11. Retrieve names of employees who manage branches and their respective branch addresses.**
     ![image](https://github.com/user-attachments/assets/76da6557-b052-4a08-a423-60913a73d945)
 
-12. Display names of customers who issued books with a rental price higher than Rs. 25.
+**12. Display names of customers who issued books with a rental price higher than Rs. 25.**
     ![image](https://github.com/user-attachments/assets/94d85d91-02d0-45d1-b6f3-53cef89fc6df)
 
     ![image](https://github.com/user-attachments/assets/ebc51c14-1377-4092-9a9a-7cfd0161ca16)
