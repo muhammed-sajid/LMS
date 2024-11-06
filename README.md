@@ -165,6 +165,10 @@ The following SQL queries are used in this project:
     ![image](https://github.com/user-attachments/assets/76da6557-b052-4a08-a423-60913a73d945)
 
 12. Display names of customers who issued books with a rental price higher than Rs. 25.
+    ![image](https://github.com/user-attachments/assets/94d85d91-02d0-45d1-b6f3-53cef89fc6df)
+
+    ![image](https://github.com/user-attachments/assets/ebc51c14-1377-4092-9a9a-7cfd0161ca16)
+
 
 
 
