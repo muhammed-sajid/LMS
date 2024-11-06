@@ -36,6 +36,7 @@ The system includes the following tables:
      **Insert values into Branch**
      ![image](https://github.com/user-attachments/assets/6a295047-1bac-45bb-bd90-6020655e0d65)
      **Table**
+     
      ![image](https://github.com/user-attachments/assets/1e52e5c3-61af-45bb-af6e-ab588b5d797b)
 
 
